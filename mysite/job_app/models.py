@@ -1,5 +1,5 @@
-from typing import Any
 from django.db import models
+
 
 class Form(models.Model):
     first_name = models.CharField(max_length=80)
