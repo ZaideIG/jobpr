@@ -18,6 +18,6 @@ USAGE:
 3. Run command: python manage.py runserver
 4. copy local host link to open window. 
 5. 127.0.0.1:8000(Site)
-6. 127.0.0.1:8000/admin/(admin panel)
+6. 127.0.0.1:8000/admin/(admin panel) 
     -username: jamaiel
     -password: BlendFit2023
